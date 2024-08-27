@@ -31,7 +31,7 @@
             android:key="persist.sys.pixelprops.google"
             android:title="@string/google_spoof_title"
             android:summary="@string/google_spoof_summary"
-            android:defaultValue="true" />
+            android:defaultValue="false" />
 
         <com.crdroid.settings.preferences.SystemPropertySwitchPreference
             android:key="persist.sys.gameprops.enabled"
@@ -75,7 +75,7 @@
             android:key="persist.sys.pixelprops.gphotos"
             android:title="@string/use_photos_spoof_title"
             android:summary="@string/use_photos_spoof_summary"
-            android:defaultValue="true"
+            android:defaultValue="false"
             app:position="bottom" />
 
     <PreferenceCategory
