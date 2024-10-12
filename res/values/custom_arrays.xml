@@ -1182,9 +1182,7 @@
     </string-array>
     
    <string-array name="volume_styles_entries" translatable="false">
-        <item>@string/revamped_aosp_style</item>
-        <item>@string/rui_style</item>
-        <item>@string/rising_style</item>
+        <item>@string/default_value</item>
         <item>@string/double_layer_style</item>
         <item>@string/gradient_style</item>
         <item>@string/neumorph_style</item>
@@ -1201,8 +1199,6 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
-        <item>7</item>
-        <item>8</item>
     </string-array>
     
     <string-array name="pulse_custom_gravity_entries">
